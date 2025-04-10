@@ -28,8 +28,8 @@ public class Assignments_Datatypes {
 //Person's marital status: true or false -->(Datatype=boolean)
 		boolean maritalstatus = true;
 		boolean maritalstatus1 = false;
-		System.out.println("maritalstatus "+maritalstatus);
-		System.out.println("maritalstatus1 "+maritalstatus1);
+		System.out.println("maritalstatus = "+maritalstatus);
+		System.out.println("maritalstatus1 = "+maritalstatus1);
 //Saumya's occupation: "Software Engineer"-->(Datatype=String)
 		String occupation = "Software Engineer";
 		System.out.println("Saumya's occupation = "+occupation);
@@ -37,10 +37,10 @@ public class Assignments_Datatypes {
 		String colour = "Blue";
 		System.out.println("Saumya's favourite colour = "+colour);
 //Current year: 2023-->(Datatype=int)
-		int year = 2023;
+		int year = 2025;
 		System.out.println("Current year = "+year);
-//Number of followers on a social media platform: 1,000,000-->(Datatype=int)
-		int followers = 1000000;
+//Number of followers on a social media platform: 1,000,000-->(Datatype=string)
+		String followers = "1,000,000";
 		System.out.println("Number of followers on a social media platform = "+followers);
 //Rating of a movie: 7.5-->(Datatype=float)		
 		float rating =7.5f;
@@ -70,12 +70,7 @@ public class Assignments_Datatypes {
 		float distance =200.5f;
 		System.out.println("Distance between two cities = "+distance);
 		
-		
-		
-		
-		
-		
-		
+			
 	}
 
 }
