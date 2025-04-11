@@ -44,12 +44,12 @@ public class Assignments_ArrayConcepts {
 		System.out.println("Semester 4 ,Subject 6 = " + Collegedetails[3][1][5]);
 		
 //Print the Status/Marks of Semester 4 Subject 3 and Subject 6 along with subject names
-		System.out.println("Semester 4 ,Subject 3 = " + Collegedetails[3][0][2]   +  Collegedetails[3][1][2]);
-		System.out.println("Semester 4 ,Subject 6 = " + Collegedetails[3][0][5]   +  Collegedetails[3][1][5]);	
+		System.out.println("Semester 4 ,Subject 3 = " + Collegedetails[3][0][2] +": "  +  Collegedetails[3][1][2]);
+		System.out.println("Semester 4 ,Subject 6 = " + Collegedetails[3][0][5]   + ": "+ Collegedetails[3][1][5]);	
 		
 //Print the Status/Marks of Semester 5 Subject 6 and Subject 5 with their names
-		System.out.println("Semester 5 ,Subject 6 = " + Collegedetails[4][0][5]  + Collegedetails[4][1][5] );
-		System.out.println("Semester 5 ,Subject 5 = " + Collegedetails[4][0][4]  + Collegedetails[4][1][4] );
+		System.out.println("Semester 5 ,Subject 6 = " + Collegedetails[4][0][5] +": " + Collegedetails[4][1][5] );
+		System.out.println("Semester 5 ,Subject 5 = " + Collegedetails[4][0][4] +": " + Collegedetails[4][1][4] );
 		
 		
 		
