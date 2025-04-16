@@ -1,12 +1,13 @@
 package language.basics;
 
+import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.time.LocalDateTime;
 import java.util.logging.Logger;
 
 public class CommentsInJava {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileNotFoundException {
 		// Print the content and then go to next line
 	       System.out.println("Hello, World!");
 	       System.out.println("Hello, Mega!");

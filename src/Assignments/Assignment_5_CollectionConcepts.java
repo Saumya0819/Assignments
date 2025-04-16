@@ -138,9 +138,11 @@ public class Assignment_5_CollectionConcepts {
  finalList.put("Employees", employeeList);
  finalList.put("Products", productList);
  
- System.out.println(finalList.get(0));
-    
-    
+ System.out.println(finalList.get("Products").get(1).get("Supplier"));
+ System.out.println(finalList.get("Products"));   
+ System.out.println(finalList.get("Students")); 
+ System.out.println(finalList.get("Employees"));
+ System.out.println(finalList);
 		
 	}
 
