@@ -37,8 +37,6 @@ System.out.println(x+","+ y +", "+ z);
 
 
 
-
-
 	}
 
 }
