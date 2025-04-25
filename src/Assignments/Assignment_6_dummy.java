@@ -18,10 +18,7 @@ public class Assignment_6_dummy {
 		System.out.println("additional checks performed");}	
 		if (creditscore < 650){
 		System.out.println("Loan is denied");}
-		
-		
-		
-
+	
 	}
 
 }
